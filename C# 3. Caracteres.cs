@@ -8,6 +8,5 @@ class MainClass {
       char alphabet = (char)i;
       Console.WriteLine(alphabet);
     }
-
   }
 }
